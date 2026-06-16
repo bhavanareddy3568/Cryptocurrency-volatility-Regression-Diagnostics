@@ -295,20 +295,20 @@ Data Scientists
 ```text
 Cryptocurrency-Volatility-Regression-Diagnostics
 │
-├── notebook/
-│   └── crypto_volatility_regression.ipynb
+├── Notebooks/
+│   └── Crypto_Volatility_Analysis.ipynb
 │
-├── docs/
-│   ├── crypto_volatility_project_proposal.pdf
-│   └── crypto_volatility_final_presentation.pptx
+├── Reports/
+│   ├── Project_Proposal.pdf
+│   └── crypto_volatility_presentation.pptx
 │
-├── screenshots/
+├── Screenshots/
 │   ├── residual_plot.png
 │   ├── qq_plot.png
 │   ├── cooks_distance.png
 │   └── model_summary.png
 │
-├── requirements.txt
+├── Requirements.txt
 └── README.md
 ```
 
