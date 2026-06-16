@@ -306,6 +306,9 @@ Cryptocurrency-Volatility-Regression-Diagnostics
 │   ├── residual_plot.png
 │   ├── qq_plot.png
 │   ├── cooks_distance.png
+│   ├── model_evaluation.png
+│   ├── correlation_heatma.png
+│   ├── BTC_close_price_and_trends.png
 │   └── model_summary.png
 │
 ├── Requirements.txt
