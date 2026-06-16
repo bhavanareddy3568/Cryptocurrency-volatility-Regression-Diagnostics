@@ -292,6 +292,7 @@ Data Scientists
 
 ## 📂 Repository Structure
 
+```text
 Cryptocurrency-Volatility-Regression-Diagnostics
 │
 ├── notebook/
@@ -309,6 +310,7 @@ Cryptocurrency-Volatility-Regression-Diagnostics
 │
 ├── requirements.txt
 └── README.md
+```
 
 ----
 
